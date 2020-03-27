@@ -1,2 +1,2 @@
-# C-Study
+# Cpp-Study
 c++ study
